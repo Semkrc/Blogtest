@@ -1,0 +1,51 @@
+* {
+background-color: black;
+font-family: "VT323", monospace;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  list-style: none;
+}
+
+.right{
+text-align: right;
+float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  list-style: none;
+} 
+  
+nav {
+border-radius: 25px;
+position: sticky;
+top: 0;
+}
+
+
+article {
+margin-top: 15%;
+width: 100vw;
+text-align: center;
+color: white;
+}
+
+p {
+text-align: center;
+} 
+
+
